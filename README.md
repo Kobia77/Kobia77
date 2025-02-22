@@ -15,7 +15,3 @@ Hi there! I’m Kobi, a passionate backend and full-stack developer specializing
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kobia77&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Kobia77&icon=9&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
