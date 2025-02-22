@@ -1,5 +1,5 @@
-# About Me:
-Hi there! I’m Kobi, a passionate backend and full-stack developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) and Flask.
+# Kobi Alen
+Hey I’m Kobi, a passionate backend and full-stack developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) and Flask.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kobi_alen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kobi-alen-software-engineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kobialen77@gmail.com) 
 
