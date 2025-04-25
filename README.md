@@ -14,7 +14,7 @@ Hey I’m Kobi, a passionate backend and full-stack developer specializing in th
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 </div>
 
-### Freamworks
+### Frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
